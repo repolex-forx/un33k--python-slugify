@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/un33k/python-slugify/commit/35aca63fc2672cba2c739ff6dff685a4f26a4f9a",
       "git:hexsha": "35aca63fc2672cba2c739ff6dff685a4f26a4f9a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/un33k/python-slugify/commit/cce2c8edd87a9ac130c1e41b06959e77f71042ba",
