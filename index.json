@@ -1,0 +1,11 @@
+{
+  "org": "un33k",
+  "repo": "python-slugify",
+  "versions": [
+    {
+      "commit": "35aca63fc2672cba2c739ff6dff685a4f26a4f9a",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:40:41.195942+00:00"
+    }
+  ]
+}
